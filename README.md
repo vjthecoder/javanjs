@@ -1,12 +1,10 @@
 ## Welcome to Java n JS
 
-You can use the [editor on GitHub](https://github.com/vjthecoder/javanjs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A single platform for all your tutorials of Java and JS. We are trying to make things very simple and natural which will attract you and make you learn many things about Java and JS so easily.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Goal
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our goal is to bring down the vast amount of tutorial to simple and interactive tutorial.
 
 ```markdown
 Syntax highlighted code block
