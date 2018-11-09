@@ -1,10 +1,10 @@
-## Welcome to Java n JS
+## Welcome to Java & JS
 
-A single platform for all your tutorials of Java and JS. We are trying to make things very simple and natural which will attract you and make you learn many things about Java and JS so easily.
+A single platform for all your tutorials of Java and JS. We are trying to make things very simple and natural, which will attract you and make you learn many things about Java and JS so easily.
 
 ### Goal
 
-Our goal is to bring down the vast amount of tutorial to simple and interactive tutorial.
+Our goal is to bring down the vast amount of tutorial to simple and interactive.
 
 ```markdown
 Syntax highlighted code block
